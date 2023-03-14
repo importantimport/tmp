@@ -24,6 +24,8 @@
 
 ## Mika
 
+`Rust` `Axum` `SQLx`
+
 轻量级自建 Webmentions 服务端，通过类 webmentions.io API 输出数据
 
 可以与 [Seia](https://github.com/importantimport/seia) 组合使用
