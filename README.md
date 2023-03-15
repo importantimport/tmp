@@ -22,14 +22,6 @@
 
 由于 ActivityPub 对静态内容很不友好，可能会更换技术栈
 
-## Mika
-
-`Rust` `Axum` `SQLx`
-
-轻量级自建 Webmentions 服务端，通过类 webmentions.io API 输出数据
-
-可以与 [Seia](https://github.com/importantimport/seia) 组合使用
-
 ## Untitled / 未命名
 
 `Ren'Py` `Python`
