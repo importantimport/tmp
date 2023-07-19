@@ -12,16 +12,6 @@
 
 已经写了一些，但由于 Prometheus 格式过于阴间目前停摆
 
-## ~~Hatsu~~ Untitled / 未命名
-
-`Next.js` `Contentlayer` `Prisma`
-
-博客原生支持 ActivityPub & Fediverse 的实验
-
-目标是覆盖现有 Bridgy Mastodon 的功能（同时支持自定义表情 / 自定义表情反应），以及直接在实例内搜索展示文章
-
-由于 ActivityPub 对静态内容很不友好，可能会更换技术栈
-
 ## Untitled / 未命名
 
 `Ren'Py` `Python`
