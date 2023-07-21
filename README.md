@@ -6,12 +6,12 @@
 
 ## Momoi
 
-`Mitosis` `SolidStart` `Matrix` `Tauri`
+`Mitosis` `Svelte` `Matrix` `Tauri`
 
 分为两个项目：
 
 - `@momoi/*`: 基于 Mitosis 的跨框架组件库
-- `momoi`: 使用 SolidStart / Tauri 的跨平台 Matrix 客户端
+- `momoi`: 使用 ~~SolidStart~~ SvelteKit / Tauri 的跨平台 Matrix 客户端
 
 尽可能接近 momotalk，还没开始写。
 
