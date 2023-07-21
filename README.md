@@ -4,6 +4,17 @@
 
 如果你有兴趣参与开发，请通过任何方式联系我！
 
+## Momoi
+
+`Mitosis` `SolidStart` `Matrix` `Tauri`
+
+分为两个项目：
+
+- `@momoi/*`: 基于 Mitosis 的跨框架组件库
+- `momoi`: 使用 SolidStart / Tauri 的跨平台 Matrix 客户端
+
+尽可能接近 momotalk，还没开始写。
+
 ## Mokou
 
 `Elixir` `Phoenix Framework`
