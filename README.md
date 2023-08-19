@@ -6,12 +6,13 @@
 
 ## Momoi
 
-`Mitosis` `Svelte` `Matrix` `Tauri`
+`React` `Vanilla Extract` `Matrix` `Tauri`
 
-分为两个项目：
+分为多个包：
 
-- `@momoi/*`: 基于 Mitosis 的跨框架组件库
-- `momoi`: 使用 ~~SolidStart~~ SvelteKit / Tauri 的跨平台 Matrix 客户端
+- `@momoi/css`: 基于 Vanilla Extract 的 Typesafe CSS 库
+- `@momoi/react`: 使用 `@momoi/css` 和 Radix UI Primitives 的 React 组件库
+- `momoi`: 跨平台 Matrix 客户端
 
 尽可能接近 momotalk，还没开始写。
 
