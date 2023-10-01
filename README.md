@@ -4,18 +4,6 @@
 
 如果你有兴趣参与开发，请通过任何方式联系我！
 
-## Momoi
-
-`React` `Vanilla Extract` `Matrix` `Tauri`
-
-分为多个包：
-
-- `@momoi/css`: 基于 Vanilla Extract 的 Typesafe CSS 库
-- `@momoi/react`: 使用 `@momoi/css` 和 Radix UI Primitives 的 React 组件库
-- `momoi`: 跨平台 Matrix 客户端
-
-尽可能接近 momotalk，还没开始写。
-
 ## Mokou
 
 `Elixir` `Phoenix Framework`
@@ -37,3 +25,23 @@
 - 配音：NONE (maybe VITS)
 
 尝试用 new Bing 生成大纲中...
+
+## EZSS (Easy Secure Storage)
+
+`TypeScript` `Web Crypto API`
+
+[React Secure Storage](https://github.com/sushinpv/react-secure-storage) 的轻量代替品，仅实现其中的 `EncryptionService`，不再与 React 和 LocalStorage 挂钩
+
+（取而代之，可以使用像 `@mantine/hooks/use-local-storage` 这样的库自行包装，自由度更高）
+
+尝试用 `ohash` 代替 `murmurhash-js`，Web Crypto API 代替 `crypto-js`（如果可能）
+
+## `@importantimport/rehype-pretty-code`
+
+`Unified` `Rehype` `Shikiji`
+
+[Rehype Pretty Code](https://github.com/atomiks/rehype-pretty-code) 的 ESM  / Deno 友好分支，将 Shiki 替换为 Shikiji。
+
+也许还可以有可选的 Starry Night 方案？
+
+会在 Lume Theme Shiraha 完成度较高时开始此项目。
